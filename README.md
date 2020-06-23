@@ -41,5 +41,7 @@ arror 문법은 두 가지의 장점을 제공한다. 첫 번째는 익숙하면
 ECMA 2017 (ES 8)
 
 사실 ECMA 2017 까진 정리하지 않으려 했는데, 보던 중 반가운 기능이 추가되어 소개 합니다.
+
 async — await
+
 위에서 ES6에서 callback hell을 해결하기 위해 Promise가 도입되었다고 했는데 async-await도 Promise처럼 callback 을 해결할 뿐만 아니라 좀 더 직관적이고 단순하게 코드를 만들 수 있습니다. 
