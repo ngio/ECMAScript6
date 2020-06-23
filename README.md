@@ -1,6 +1,24 @@
 # ECMAScript6
 What is ECMAScript6 
- 
+
+
+ ECMAScript 6 is also known as ES6 and ECMAScript 2015.
+
+ Some people call it JavaScript 6.
+
+ This chapter will introduce some of the new features in ES6.
+
+- JavaScript let
+- JavaScript const
+- JavaScript Arrow Functions
+- JavaScript Classes
+- Default parameter values
+- Array.find()
+- Array.findIndex()
+- Exponentiation (**) (EcmaScript 2016)
+
+
+
 ES 2015 (ES 6)
 
 
