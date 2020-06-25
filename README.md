@@ -4,6 +4,8 @@ What is ECMAScript6
 
 <a href="https://github.com/ngio/ECMAScript6/blob/master/let.js">let.js</a>
 
+<a href="https://github.com/ngio/ECMAScript6/blob/master/const.js">const.js</a>
+
  ECMAScript 6 is also known as ES6 and ECMAScript 2015.
 
  Some people call it JavaScript 6.
