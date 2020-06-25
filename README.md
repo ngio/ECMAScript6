@@ -2,7 +2,7 @@
 What is ECMAScript6 
 
 
-<a href="/ngio/ECMAScript6/blob/master/let.js">let.js</a>
+<a href="/blob/master/let.js">let.js</a>
 
  ECMAScript 6 is also known as ES6 and ECMAScript 2015.
 
